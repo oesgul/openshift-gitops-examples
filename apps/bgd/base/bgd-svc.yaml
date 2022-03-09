@@ -5,7 +5,7 @@ metadata:
   labels:
     app: bgd
   name: bgd
-  namespace: bgd
+  namespace: bgd2
 spec:
   ports:
   - port: 8080
